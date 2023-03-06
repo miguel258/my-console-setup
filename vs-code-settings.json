@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "terminal.integrated.enableShellIntegration": true,
+    "terminal.integrated.fontFamily":"MesloLGS NF",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "lldb.library": "/Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "svg.preview.mode": "svg",
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontLigatures": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+}
